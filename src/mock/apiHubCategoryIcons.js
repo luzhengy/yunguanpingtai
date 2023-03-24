@@ -1,0 +1,34 @@
+export const categoryIcons= [
+    {
+      name:"化学结构式",
+      imgName:"chemicalFormula.svg"
+    },
+    {
+      name:"生物序列",
+      imgName:"biologicalSequences.svg"
+    },
+    {
+      name:"一般文本",
+      imgName:"text.svg"
+    },
+    {
+      name:"图片",
+      imgName:"img.svg"
+    },
+    {
+      name:"论文",
+      imgName:"paper.svg"
+    },
+    {
+      name:"新闻",
+      imgName:"news.svg"
+    },
+    {
+      name:"专利",
+      imgName:"patent.svg"
+    },
+    {
+        name:"其它",
+        imgName:"other.svg"
+      },
+]
